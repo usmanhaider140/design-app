@@ -14,7 +14,7 @@ a {
 }
 
 .Hero {
-  background: url("../images/Polygon-1000.png") center;
+  background: url("../assets/images/Polygon-1000.png") center;
   background-size: cover;
   height: 920px;
   position: relative;
@@ -118,5 +118,38 @@ a {
 
   .Hero .logos {
     grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.Cards h2 {
+  margin: 50px 20px;
+  text-align: center;
+  font-size: 60px;
+  font-weight: 700;
+  background: linear-gradient(104deg, #050a27 0%, #4a548c 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.CardGroup {
+  margin: 50px 40px 100px;
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  justify-items: center;
+}
+
+@media (max-width: 1060px) {
+  .CardGroup {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 720px) {
+  .CardGroup {
+    grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
   }
 }
