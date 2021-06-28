@@ -1,0 +1,53 @@
+{
+  "cells": [
+    {
+      "title": "Intro to React",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+    {
+      "title": "Basic Styling in CSS",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+
+    {
+      "title": "Interactions and Animations",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+    {
+      "title": "Adaptive Layout with CSS Grid",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+    {
+      "title": "Components and Props",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+    {
+      "title": "State and Events",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+    {
+      "title": "Multiple Pages",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+    {
+      "title": "JSON Static Data",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+    {
+      "title": "Data with Contentful",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+    {
+      "title": "Contact form and Posting Data",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+    {
+      "title": "Payments with Stripe",
+      "image": "../assets/images/icons/Logo_React.png"
+    },
+    {
+      "title": "Publish to Netlify",
+      "image": "../assets/images/icons/Logo_React.png"
+    }
+  ]
+}
