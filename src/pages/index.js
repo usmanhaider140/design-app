@@ -118,7 +118,6 @@ const IndexPage = () => (
         <Cell key={cell.title} title={cell.title} image={cell.image} />
       ))}
     </SectionCellGroup>
-
     <Footer />
   </Layout>
 )
